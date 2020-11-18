@@ -1,0 +1,12 @@
+{
+  "name": "RandomImage",
+  "displayName": "RandomImage",
+  "expo": {
+    "name": "RandomImage",
+    "slug": "RandomImage",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
